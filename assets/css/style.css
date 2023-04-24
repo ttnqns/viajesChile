@@ -1,0 +1,87 @@
+html{
+    scroll-behavior: smooth;
+}
+
+*{
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+}
+
+body{
+    background-color: #000;
+}
+
+.navbar-color{
+    background-color: transparent;
+}
+
+.navbar-color.negro{
+    background-color: #000;
+}
+
+.logo{
+    color: #fff;
+}
+
+.logo:hover{
+    color: #fff;
+}
+
+.opcion{
+    color: #fff;
+}
+
+.opcion:hover{
+    color: #9e9e9e;
+}
+
+h2{
+    color: #fff;
+    font-size: 20pt;
+    font-weight: lighter;
+}
+
+h5{
+    color: #fff;
+    font-weight: lighter;
+}
+.img-card{
+    max-height: 172px;
+} 
+
+.featured{
+    background-color: #0DCAF0;
+}
+
+.description-1{
+    background-color: #000;
+    color: #fff;
+    padding: 16px 0;
+}
+
+.description-2{
+    background-color: #0DCAF0;
+    color: #fff;
+}
+
+.label-text{
+    color: #fff;
+    font-size: 12pt;
+}
+
+#button{
+    background-color: #0DCAF0;
+}
+
+footer{
+    background-color: #0DCAF0;
+}
+footer span {
+    font-size: 17pt;
+    color: #fff;
+    font-weight: lighter;
+}
+
+footer span i{
+    font-size: 18pt;
+}
